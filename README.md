@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nelsonomuetibusiness
-- 👀 I’m interested in ... Fullstack Openings
+- 👀 I’m interested in ... Frontend,Backend and Fullstack web dev Openings
 - 🌱 I’m currently learning ... NextJs
 - 💞️ I’m looking to collaborate on ... web projects
 - 📫 How to reach me ... http://omuetinelson.com.ng/
